@@ -1,0 +1,37 @@
+[
+  {
+    "proposal": "A",
+    "rank": 1,
+    "status": "ranked",
+    "score": 84,
+    "reason": "Strong relevant experience, confirmed mandatory requirements, a competitive price, a 12-week timeline, and a well-defined delivery team."
+  },
+  {
+    "proposal": "B",
+    "rank": null,
+    "status": "ineligible",
+    "score": null,
+    "reason": "The bidder's own Ontario electrical contractor licence is not confirmed; a licensed subcontractor is to be confirmed after award."
+  },
+  {
+    "proposal": "C",
+    "rank": 3,
+    "status": "ranked",
+    "score": 67,
+    "reason": "Meets the stated mandatory requirements but has a higher price and longer timeline than the top-ranked proposal."
+  },
+  {
+    "proposal": "D",
+    "rank": null,
+    "status": "flagged",
+    "score": null,
+    "reason": "Completion time is undetermined, so compliance with the 16-week maximum cannot be established without clarification."
+  },
+  {
+    "proposal": "E",
+    "rank": 2,
+    "status": "ranked",
+    "score": 73,
+    "reason": "Meets mandatory requirements and offers a strong team, safety approach, and 12-year workmanship warranty, with a 13-week timeline."
+  }
+]
