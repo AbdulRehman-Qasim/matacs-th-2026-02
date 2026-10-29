@@ -2,7 +2,7 @@
 
 **Candidate:** Muhammad Abdul Rehman  
 **Assessment reference:** MATACS-TH-2026-02  
-**Time spent:** 4 hours
+**Time spent:** 3 - 4 hours
 
 ## Overview
 
